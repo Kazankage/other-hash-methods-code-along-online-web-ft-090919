@@ -5,4 +5,4 @@ groceries = {
   grains: ["rice", "pasta"]
 }
 
-puts groceries.keys
+print groceries.keys
