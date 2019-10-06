@@ -7,4 +7,4 @@ groceries = {
 
 print groceries.keys
 puts 
-print groceries.values
+print groceries.values.flatten
