@@ -6,3 +6,5 @@ groceries = {
 }
 
 print groceries.keys
+puts 
+print groceries.values
