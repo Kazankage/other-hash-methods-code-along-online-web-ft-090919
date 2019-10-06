@@ -9,4 +9,4 @@ print groceries.keys
 puts 
 print groceries.values.flatten
 puts
-print groceries.min
+print groceries.values.flatten.min
